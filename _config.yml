@@ -1,0 +1,16 @@
+source:      ./_source
+destination: ./_site
+layouts:     ./_layouts
+includes:    ./_includes
+include:     ['.htaccess']
+exclude:     ['public']
+keep_files:  ['.git','.svn']
+gems:        []
+timezone:    CET
+encoding:    utf-8
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
