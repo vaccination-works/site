@@ -1,4 +1,5 @@
 ---
+layout: default
 title: About vaccination.works
 order: 6
 menu:

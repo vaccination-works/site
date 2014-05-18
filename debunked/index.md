@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Debunked claims on vaccination.works
 order: 2
 menu:

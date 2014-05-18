@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Further reading after vaccination.works
 order: 4
 menu:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: How to contribute to vaccination.works
 order: 5
 menu:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Facts on vaccination.works
 order: 3
 menu:
