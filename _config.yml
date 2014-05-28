@@ -9,6 +9,7 @@ gems:        []
 timezone:    CET
 encoding:    utf-8
 markdown:    kramdown
+ga:          'UA-51054610-1'
 defaults:
   -
     scope:
